@@ -1,0 +1,6 @@
+C:\Users\sharphurt\RiderProjects\CodeWars\Anagrams\bin\Debug\Anagrams.exe
+C:\Users\sharphurt\RiderProjects\CodeWars\Anagrams\bin\Debug\Anagrams.pdb
+C:\Users\sharphurt\RiderProjects\CodeWars\Anagrams\obj\Debug\Anagrams.csprojAssemblyReference.cache
+C:\Users\sharphurt\RiderProjects\CodeWars\Anagrams\obj\Debug\Anagrams.csproj.CoreCompileInputs.cache
+C:\Users\sharphurt\RiderProjects\CodeWars\Anagrams\obj\Debug\Anagrams.exe
+C:\Users\sharphurt\RiderProjects\CodeWars\Anagrams\obj\Debug\Anagrams.pdb

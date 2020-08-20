@@ -1,0 +1,6 @@
+C:\Users\sharphurt\RiderProjects\CodeWars\FindFileInFolder\bin\Debug\FindFileInFolder.exe
+C:\Users\sharphurt\RiderProjects\CodeWars\FindFileInFolder\bin\Debug\FindFileInFolder.pdb
+C:\Users\sharphurt\RiderProjects\CodeWars\FindFileInFolder\obj\Debug\FindFileInFolder.csprojAssemblyReference.cache
+C:\Users\sharphurt\RiderProjects\CodeWars\FindFileInFolder\obj\Debug\FindFileInFolder.csproj.CoreCompileInputs.cache
+C:\Users\sharphurt\RiderProjects\CodeWars\FindFileInFolder\obj\Debug\FindFileInFolder.exe
+C:\Users\sharphurt\RiderProjects\CodeWars\FindFileInFolder\obj\Debug\FindFileInFolder.pdb

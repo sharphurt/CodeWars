@@ -1,0 +1,6 @@
+C:\Users\sharphurt\RiderProjects\CodeWars\StringToCamelCase\bin\Debug\StringToCamelCase.exe
+C:\Users\sharphurt\RiderProjects\CodeWars\StringToCamelCase\bin\Debug\StringToCamelCase.pdb
+C:\Users\sharphurt\RiderProjects\CodeWars\StringToCamelCase\obj\Debug\StringToCamelCase.csprojAssemblyReference.cache
+C:\Users\sharphurt\RiderProjects\CodeWars\StringToCamelCase\obj\Debug\StringToCamelCase.csproj.CoreCompileInputs.cache
+C:\Users\sharphurt\RiderProjects\CodeWars\StringToCamelCase\obj\Debug\StringToCamelCase.exe
+C:\Users\sharphurt\RiderProjects\CodeWars\StringToCamelCase\obj\Debug\StringToCamelCase.pdb

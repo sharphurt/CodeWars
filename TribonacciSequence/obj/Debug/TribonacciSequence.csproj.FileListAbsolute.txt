@@ -1,0 +1,6 @@
+C:\Users\sharphurt\RiderProjects\CodeWars\TribonacciSequence\obj\Debug\TribonacciSequence.csprojAssemblyReference.cache
+C:\Users\sharphurt\RiderProjects\CodeWars\TribonacciSequence\obj\Debug\TribonacciSequence.csproj.CoreCompileInputs.cache
+C:\Users\sharphurt\RiderProjects\CodeWars\TribonacciSequence\bin\Debug\TribonacciSequence.exe
+C:\Users\sharphurt\RiderProjects\CodeWars\TribonacciSequence\bin\Debug\TribonacciSequence.pdb
+C:\Users\sharphurt\RiderProjects\CodeWars\TribonacciSequence\obj\Debug\TribonacciSequence.exe
+C:\Users\sharphurt\RiderProjects\CodeWars\TribonacciSequence\obj\Debug\TribonacciSequence.pdb

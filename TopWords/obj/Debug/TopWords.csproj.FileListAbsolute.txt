@@ -1,0 +1,6 @@
+C:\Users\sharphurt\RiderProjects\CodeWars\TopWords\bin\Debug\TopWords.exe
+C:\Users\sharphurt\RiderProjects\CodeWars\TopWords\bin\Debug\TopWords.pdb
+C:\Users\sharphurt\RiderProjects\CodeWars\TopWords\obj\Debug\TopWords.csprojAssemblyReference.cache
+C:\Users\sharphurt\RiderProjects\CodeWars\TopWords\obj\Debug\TopWords.csproj.CoreCompileInputs.cache
+C:\Users\sharphurt\RiderProjects\CodeWars\TopWords\obj\Debug\TopWords.exe
+C:\Users\sharphurt\RiderProjects\CodeWars\TopWords\obj\Debug\TopWords.pdb

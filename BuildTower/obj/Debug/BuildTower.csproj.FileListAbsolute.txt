@@ -1,0 +1,6 @@
+C:\Users\sharphurt\RiderProjects\CodeWars\BuildTower\bin\Debug\BuildTower.exe
+C:\Users\sharphurt\RiderProjects\CodeWars\BuildTower\bin\Debug\BuildTower.pdb
+C:\Users\sharphurt\RiderProjects\CodeWars\BuildTower\obj\Debug\BuildTower.csprojAssemblyReference.cache
+C:\Users\sharphurt\RiderProjects\CodeWars\BuildTower\obj\Debug\BuildTower.csproj.CoreCompileInputs.cache
+C:\Users\sharphurt\RiderProjects\CodeWars\BuildTower\obj\Debug\BuildTower.exe
+C:\Users\sharphurt\RiderProjects\CodeWars\BuildTower\obj\Debug\BuildTower.pdb

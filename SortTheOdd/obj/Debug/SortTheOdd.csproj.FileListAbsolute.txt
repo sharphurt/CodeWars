@@ -1,0 +1,6 @@
+C:\Users\sharphurt\RiderProjects\CodeWars\SortTheOdd\bin\Debug\SortTheOdd.exe
+C:\Users\sharphurt\RiderProjects\CodeWars\SortTheOdd\bin\Debug\SortTheOdd.pdb
+C:\Users\sharphurt\RiderProjects\CodeWars\SortTheOdd\obj\Debug\SortTheOdd.csprojAssemblyReference.cache
+C:\Users\sharphurt\RiderProjects\CodeWars\SortTheOdd\obj\Debug\SortTheOdd.csproj.CoreCompileInputs.cache
+C:\Users\sharphurt\RiderProjects\CodeWars\SortTheOdd\obj\Debug\SortTheOdd.exe
+C:\Users\sharphurt\RiderProjects\CodeWars\SortTheOdd\obj\Debug\SortTheOdd.pdb

@@ -1,0 +1,6 @@
+C:\Users\sharphurt\RiderProjects\CodeWars\FindDividors\bin\Debug\FindDividors.exe
+C:\Users\sharphurt\RiderProjects\CodeWars\FindDividors\bin\Debug\FindDividors.pdb
+C:\Users\sharphurt\RiderProjects\CodeWars\FindDividors\obj\Debug\FindDividors.csprojAssemblyReference.cache
+C:\Users\sharphurt\RiderProjects\CodeWars\FindDividors\obj\Debug\FindDividors.csproj.CoreCompileInputs.cache
+C:\Users\sharphurt\RiderProjects\CodeWars\FindDividors\obj\Debug\FindDividors.exe
+C:\Users\sharphurt\RiderProjects\CodeWars\FindDividors\obj\Debug\FindDividors.pdb

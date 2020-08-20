@@ -1,0 +1,6 @@
+C:\Users\sharphurt\RiderProjects\CodeWars\TenMinuteWalk\bin\Debug\TenMinuteWalk.exe
+C:\Users\sharphurt\RiderProjects\CodeWars\TenMinuteWalk\bin\Debug\TenMinuteWalk.pdb
+C:\Users\sharphurt\RiderProjects\CodeWars\TenMinuteWalk\obj\Debug\TenMinuteWalk.csprojAssemblyReference.cache
+C:\Users\sharphurt\RiderProjects\CodeWars\TenMinuteWalk\obj\Debug\TenMinuteWalk.csproj.CoreCompileInputs.cache
+C:\Users\sharphurt\RiderProjects\CodeWars\TenMinuteWalk\obj\Debug\TenMinuteWalk.exe
+C:\Users\sharphurt\RiderProjects\CodeWars\TenMinuteWalk\obj\Debug\TenMinuteWalk.pdb

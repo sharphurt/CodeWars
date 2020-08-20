@@ -1,0 +1,6 @@
+C:\Users\sharphurt\RiderProjects\CodeWars\SumOfNumbers\bin\Debug\SumOfNumbers.exe
+C:\Users\sharphurt\RiderProjects\CodeWars\SumOfNumbers\bin\Debug\SumOfNumbers.pdb
+C:\Users\sharphurt\RiderProjects\CodeWars\SumOfNumbers\obj\Debug\SumOfNumbers.csprojAssemblyReference.cache
+C:\Users\sharphurt\RiderProjects\CodeWars\SumOfNumbers\obj\Debug\SumOfNumbers.csproj.CoreCompileInputs.cache
+C:\Users\sharphurt\RiderProjects\CodeWars\SumOfNumbers\obj\Debug\SumOfNumbers.exe
+C:\Users\sharphurt\RiderProjects\CodeWars\SumOfNumbers\obj\Debug\SumOfNumbers.pdb

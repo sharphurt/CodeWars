@@ -1,0 +1,6 @@
+C:\Users\sharphurt\RiderProjects\CodeWars\SudokuSolutionValidator\bin\Debug\SudokuSolutionValidator.exe
+C:\Users\sharphurt\RiderProjects\CodeWars\SudokuSolutionValidator\bin\Debug\SudokuSolutionValidator.pdb
+C:\Users\sharphurt\RiderProjects\CodeWars\SudokuSolutionValidator\obj\Debug\SudokuSolutionValidator.csprojAssemblyReference.cache
+C:\Users\sharphurt\RiderProjects\CodeWars\SudokuSolutionValidator\obj\Debug\SudokuSolutionValidator.csproj.CoreCompileInputs.cache
+C:\Users\sharphurt\RiderProjects\CodeWars\SudokuSolutionValidator\obj\Debug\SudokuSolutionValidator.exe
+C:\Users\sharphurt\RiderProjects\CodeWars\SudokuSolutionValidator\obj\Debug\SudokuSolutionValidator.pdb

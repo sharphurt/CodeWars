@@ -1,0 +1,6 @@
+C:\Users\sharphurt\RiderProjects\CodeWars\UniqueInOrder\bin\Debug\UniqueInOrder.exe
+C:\Users\sharphurt\RiderProjects\CodeWars\UniqueInOrder\bin\Debug\UniqueInOrder.pdb
+C:\Users\sharphurt\RiderProjects\CodeWars\UniqueInOrder\obj\Debug\UniqueInOrder.csprojAssemblyReference.cache
+C:\Users\sharphurt\RiderProjects\CodeWars\UniqueInOrder\obj\Debug\UniqueInOrder.csproj.CoreCompileInputs.cache
+C:\Users\sharphurt\RiderProjects\CodeWars\UniqueInOrder\obj\Debug\UniqueInOrder.exe
+C:\Users\sharphurt\RiderProjects\CodeWars\UniqueInOrder\obj\Debug\UniqueInOrder.pdb
